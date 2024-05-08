@@ -11,8 +11,6 @@ Each light should be lit for the following durations:
 - Yellow light: 500ms
 - Green light: 3000ms
 
-You are free to exercise your creativity to style the appearance of the traffic light.
-
 ## 🖍️ The Design
 Please complete the design as provided here:
 - [Figma](https://www.figma.com/file/N5N63XOjP09enryuKUb5fK/Traffic-Lights-Figma?type=design&node-id=0%3A1&mode=design&t=Ln9KYSvPZTxAnD9i-1)
@@ -20,8 +18,9 @@ Please complete the design as provided here:
 ## ⏰ Duration
 2 hours
 
-## Grading
-- Accomplishment of the tasks (for both functionalities & styling completion)
-- Quality of the work
+# 💯 Grading
+- Accomplishment of the tasks: the color change functionalities, styling completion (make sure to set the Tailwind Config properly), accuracy to Figma design
+- Quality of the work: make sure the code is <b>scalable and modular</b>!
 - Cleanliness of code
-- Creativity on the styling & UI
+- Extra mark on creativity on the styling & UI
+- Time: Time is not the most priority on this list, but if you complete above points and submit the test earlier, it would be bonus points.
